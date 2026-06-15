@@ -1,0 +1,6 @@
+{
+  "name": "HCI Exam Simulator",
+  "description": "An interactive, beautifully crafted study platform for Human-Computer Interaction exams containing 105 lectures-based questions, practice modes, mock exams, visual sandboxes, and interactive cheat sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
